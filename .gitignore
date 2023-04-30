@@ -1,14 +1,5 @@
-.Rproj.user/73699987/sources/prop/100B0461
-.Rproj.user/73699987/sources/prop/73374075
-.Rproj.user/73699987/sources/prop/INDEX
-.Rproj.user/73699987/sources/session-2181a595/2E70D651
-.Rproj.user/73699987/sources/session-2181a595/2E70D651-contents
-.Rproj.user/73699987/sources/session-2181a595/6D74AA92
-.Rproj.user/73699987/sources/session-2181a595/6D74AA92-contents
-.Rproj.user/73699987/sources/session-2181a595/lock_file
+# Ignore Rproj.user folder
+.Rproj.user/
 
-	.Rproj.user/73699987/pcs/
-	.Rproj.user/73699987/rmd-outputs
-	.Rproj.user/73699987/saved_source_markers
-	.Rproj.user/73699987/sources/prop/CBA23B48
-	.Rproj.user/73699987/sources/session-4d2f31c1/
+# Ignore .Rhistory file
+.Rhistory
